@@ -2,5 +2,5 @@
 def main(a):
     return a
 # Create function arguments a.
-print(main(a))
+print(main(5))
 # Return the value a.

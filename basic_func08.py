@@ -3,5 +3,6 @@ def main(a):
     a=a+1
     return a
 # Create function arguments a.
-print(main(a))
+x=main(5)
 # Increase the value of a to one and return.
+print(x)

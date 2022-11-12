@@ -2,5 +2,4 @@
 def main(a):
     return a
 # Return the value integer type.
-x=main(5)
-print(x)
+print(main(5))

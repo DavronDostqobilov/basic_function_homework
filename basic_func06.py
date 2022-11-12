@@ -1,5 +1,6 @@
 # Create a function called main.
-def main():
-    return "davron"
+def main(a):
+    return a
 # Return the value str type.
-print(main())
+x=main('Davron')
+print(x)

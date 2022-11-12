@@ -2,5 +2,4 @@
 def main(a):
     return a
 # Return the value str type.
-x=main('Davron')
-print(x)
+print(main('Davron'))

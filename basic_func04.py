@@ -1,5 +1,6 @@
 # Create a function called main.
-def main():
-    return 5
+def main(a):
+    return a
 # Return the value integer type.
-print(main())
+x=main(5)
+print(x)
